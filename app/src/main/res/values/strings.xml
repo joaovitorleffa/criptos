@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Carteira de criptomoedas</string>
+    <string name="total_invested">Total investidos</string>
+    <string name="investment_variation">Variação:</string>
+    <string name="average_price">Preço médio</string>
+    <string name="add_crypto">Adicionar ativo</string>
+    <string name="select_crypto">Selecionar criptomoeda</string>
+    <string name="next">Avançar</string>
+    <string name="buy_crypto">Comprar criptomoeda</string>
+    <string name="crypto_name">Nome:</string>
+    <string name="crypto_amount">Quantidade</string>
+    <string name="amount">Total</string>
+    <string name="current_date">Data:</string>
+    <string name="checkout">Finalizar compra</string>
+    <string name="failed_load_data">Erro ao carregar as informações!</string>
+    <string name="empty_field_message">Preencha o campo corretamente</string>
+    <string name="total_crypto">Total de </string>
+</resources>
